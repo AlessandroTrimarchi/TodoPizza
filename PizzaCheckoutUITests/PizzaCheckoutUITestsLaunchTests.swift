@@ -1,9 +1,6 @@
 //
 //  PizzaCheckoutUITestsLaunchTests.swift
 //  PizzaCheckoutUITests
-//
-//  Created by Alessandro DiMarchi on 27/01/25.
-//
 
 import XCTest
 

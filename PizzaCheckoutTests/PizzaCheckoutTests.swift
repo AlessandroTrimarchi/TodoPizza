@@ -1,9 +1,6 @@
 //
 //  PizzaCheckoutTests.swift
 //  PizzaCheckoutTests
-//
-//  Created by Alessandro DiMarchi on 27/01/25.
-//
 
 import Testing
 @testable import PizzaCheckout
