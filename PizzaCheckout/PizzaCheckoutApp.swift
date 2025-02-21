@@ -8,7 +8,7 @@ import SwiftUI
 struct PizzaCheckoutApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Text("text page")
         }
     }
 }
